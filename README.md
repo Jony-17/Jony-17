@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm João Araújo
-- 👀 Looking to improve more and more in the Front-end
+
+- 🎓 Currently: Degree in Computer Engineering at Instituto Superior Politécnico de Gaya
+- 👀 Looking to improve more my web development skills
 
 ### Technologies that I'm used to working with and some that I have been studying
 <div style="display: inline_block"><br/>
