@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm João Araújo
 
-- 🎓 Degree in Computer Engineering at Instituto Superior Politécnico de Gaya
+- 🎓 Degree in Computer Engineering at Instituto Superior Politécnico Gaya
 - 👀 Looking to improve more my web development skills
 
 ### Technologies that I'm used to working with and some that I have been studying
