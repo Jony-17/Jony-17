@@ -3,7 +3,7 @@
 - 🎓 Degree in Computer Engineering at Instituto Superior Politécnico Gaya
 - 👀 Looking to improve more my web development skills
 
-### Technologies that I'm used to working with and some that I have been studying
+### Tech Stack
 <div style="display: inline_block"><br/>
     <img alt="html-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="css-3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
